@@ -43,22 +43,28 @@ Records analyzed:
 4,385 Reviews
 23 Products
 Multiple Product Categories
-Technologies Used
-Programming
-Python
+
+
+Technologies Used:
+```
+Programming-
+  Python
 Data Analysis
-Pandas
-NumPy
+  Pandas
+  NumPy
 Visualization
-Matplotlib
-Seaborn
-Plotly
+  Matplotlib
+  Seaborn
+  Plotly
 Natural Language Processing
-NLTK
-VADER Sentiment Analyzer
+  NLTK
+  VADER Sentiment Analyzer
 Dashboard Development
-Streamlit
-Project Structure
+  Streamlit
+```
+
+Project Structure:
+```
 Nike_Project/
 │
 ├── Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products.csv
@@ -74,32 +80,35 @@ Nike_Project/
 ├── consulting_report.md
 │
 └── README.md
-Key Features
+```
+
+Key Features:
+
 Data Cleaning
-Duplicate removal
-Missing value handling
-Rating standardization
-Automated column detection
+  Duplicate removal
+  Missing value handling
+  Rating standardization
+  Automated column detection
 Market Analysis
-Average Rating by Category
-Average Rating by Brand
-Most Reviewed Products
-Rating Distribution
+  Average Rating by Category
+  Average Rating by Brand
+  Most Reviewed Products
+  Rating Distribution
+  
 Sentiment Analysis
-
-Using NLTK VADER:
-
-Positive Reviews
-Neutral Reviews
-Negative Reviews
-Sentiment Score Calculation
+  Using NLTK VADER:
+    Positive Reviews
+    Neutral Reviews
+    Negative Reviews
+    Sentiment Score Calculation
+    
 Theme Discovery
+  Identification of:
+    Top Positive Keywords
+    Top Negative Keywords
+    Word Frequency Trends
 
-Identification of:
 
-Top Positive Keywords
-Top Negative Keywords
-Word Frequency Trends
 Product Health Intelligence
 
 Custom Formula:
@@ -109,58 +118,63 @@ Health Score =
 +
 ( Positive Sentiment % × 0.40 )
 
+
 Classification:
 
-Scale
-Fix
-Drop
-Trend Analysis
-Rating vs Sentiment
-Category vs Satisfaction
-Brand vs Satisfaction
+  Scale
+  Fix
+  Drop
+
+
+Trend Analysis:
+  Rating vs Sentiment
+  Category vs Satisfaction
+  Brand vs Satisfaction
+
+  
 Interactive Dashboard
 
 The Streamlit dashboard provides:
 
 Executive Overview
-KPI Cards
-Ratings Distribution
-Sentiment Distribution
-Product Performance
+  KPI Cards
+  Ratings Distribution
+  Sentiment Distribution
+  Product Performance
 Product Health Matrix
-Scale Products
-Fix Products
-Drop Products
+  Scale Products
+  Fix Products
+  Drop Products
 Thematic Insights
-Positive Themes
-Negative Themes
-Customer Voice Analysis
+  Positive Themes
+  Negative Themes
+  Customer Voice Analysis
+  
 Strategic Recommendations
-
-Business-focused recommendations generated from review intelligence and sentiment patterns.
+  Business-focused recommendations generated from review intelligence and sentiment patterns.
 
 Key Findings
-Average Rating: 4.60 / 5
-Positive Sentiment: 90.35%
-Negative Sentiment: 5.27%
-Products Analyzed: 23
-Reviews Processed: 4,385
+  Average Rating: 4.60 / 5
+  Positive Sentiment: 90.35%
+  Negative Sentiment: 5.27%
+  Products Analyzed: 23
+  Reviews Processed: 4,385
 
 Major positive themes:
-
-Great
-Love
-Easy
-Alexa
-Kindle
+  Great
+  Love
+  Easy
+  Alexa
+  Kindle
 
 Major pain points:
+  Battery
+  Charging
+  Apps
+  Device Reliability
 
-Battery
-Charging
-Apps
-Device Reliability
-Generated Outputs
+  
+Generated Outputs:
 
 The project automatically generates:
 
@@ -175,27 +189,41 @@ Category Performance
 Brand Performance
 Product Health Matrix
 Keyword Analysis Charts
-Installation
+
+
+Installation:
 
 Clone the repository:
 
+```
 git clone https://github.com/your-username/amazon-product-portfolio-intelligence.git
+```
 
 Install dependencies:
 
+```
 pip install -r requirements.txt
+```
 
 Download NLTK resources:
 
+```
 python -c "import nltk; nltk.download('vader_lexicon'); nltk.download('punkt'); nltk.download('stopwords')"
+```
 
 Run analysis:
 
+```
 python analysis.py
+```
 
 Launch dashboard:
 
+```
 streamlit run dashboard.py
+```
+
+
 Academic Context
 
 Course: MGNM523 – Business Applications of Artificial Intelligence
