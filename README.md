@@ -47,19 +47,19 @@ Multiple Product Categories
 
 Technologies Used:
 ```
-#Programming-
+# Programming
   Python
-#Data Analysis
+# Data Analysis
   Pandas
   NumPy
-#Visualization
+# Visualization
   Matplotlib
   Seaborn
   Plotly
-#Natural Language Processing
+# Natural Language Processing
   NLTK
   VADER Sentiment Analyzer
-#Dashboard Development
+# Dashboard Development
   Streamlit
 ```
 
