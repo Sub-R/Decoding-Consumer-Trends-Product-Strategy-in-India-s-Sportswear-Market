@@ -1,0 +1,119 @@
+================================================================================
+DETAILED INSIGHTS REPORT - AMAZON REVIEWS ANALYSIS
+================================================================================
+Report Generated: 2026-06-01 02:01:45
+
+1. DATA QUALITY & COVERAGE:
+--------------------------------------------------------------------------------
+Total Records Analyzed: 4,385
+Data Completeness: 100%
+Rating Score Range: 1 - 5
+Average Review Length: 159 characters
+
+2. SENTIMENT ANALYSIS DEEP DIVE:
+--------------------------------------------------------------------------------
+Positive Reviews: 90.35%
+Neutral Reviews: 4.38%
+Negative Reviews: 5.27%
+Sentiment Score Statistics:
+  Mean: 0.642
+  Median: 0.765
+  Std Dev: 0.348
+
+3. THEMATIC ANALYSIS:
+--------------------------------------------------------------------------------
+Top 20 Positive Keywords (indicating strengths):
+  1. great (1381 occurrences)
+  2. tablet (1022 occurrences)
+  3. love (951 occurrences)
+  4. easy (697 occurrences)
+  5. echo (628 occurrences)
+  6. bought (614 occurrences)
+  7. amazon (574 occurrences)
+  8. kindle (563 occurrences)
+  9. good (559 occurrences)
+  10. like (458 occurrences)
+  11. alexa (454 occurrences)
+  12. loves (424 occurrences)
+  13. would (400 occurrences)
+  14. product (388 occurrences)
+  15. price (380 occurrences)
+  16. screen (378 occurrences)
+  17. kids (357 occurrences)
+  18. music (337 occurrences)
+  19. well (325 occurrences)
+  20. fire (325 occurrences)
+
+Top 20 Negative Keywords (indicating pain points):
+  1. tablet (60 occurrences)
+  2. fire (47 occurrences)
+  3. kindle (44 occurrences)
+  4. amazon (33 occurrences)
+  5. bought (31 occurrences)
+  6. screen (27 occurrences)
+  7. would (26 occurrences)
+  8. great (25 occurrences)
+  9. problem (23 occurrences)
+  10. apps (23 occurrences)
+  11. time (21 occurrences)
+  12. easy (19 occurrences)
+  13. good (18 occurrences)
+  14. like (18 occurrences)
+  15. first (17 occurrences)
+  16. product (17 occurrences)
+  17. battery (15 occurrences)
+  18. charge (15 occurrences)
+  19. device (15 occurrences)
+  20. could (14 occurrences)
+
+4. PRODUCT INTELLIGENCE:
+--------------------------------------------------------------------------------
+Top 5 Products to Scale (High Health Score):
+  1. Kindle Oasis E-reader with Leather Charging Cover - Black, 6" High-Resolution Display (300 ppi), Wi-Fi - Includes Special Offers
+     Health Score: 98.91
+     Avg Rating: 4.91
+     Positive Sentiment: 100.00%
+  2. Kindle Oasis E-reader with Leather Charging Cover - Merlot, 6 High-Resolution Display (300 ppi), Wi-Fi - Includes Special Offers
+     Health Score: 96.00
+     Avg Rating: 4.67
+     Positive Sentiment: 100.00%
+  3. Amazon - Kindle Voyage - 4GB - Wi-Fi + 3G - Black
+     Health Score: 95.81
+     Avg Rating: 4.81
+     Positive Sentiment: 95.24%
+  4. All-New Fire HD 8 Tablet, 8" HD Display, Wi-Fi, 32 GB - Includes Special Offers, Black
+     Health Score: 94.36
+     Avg Rating: 4.68
+     Positive Sentiment: 95.45%
+  5. All-New Fire HD 8 Tablet, 8 HD Display, Wi-Fi, 16 GB - Includes Special Offers, Blue
+     Health Score: 93.82
+     Avg Rating: 4.64
+     Positive Sentiment: 95.45%
+
+5. CATEGORY PERFORMANCE:
+--------------------------------------------------------------------------------
+Top 10 Categories by Average Rating:
+  1. Amazon SMP,TV, Video & Home Audio,Electronics,Electronics Deals,TVs Entertainment,Digital Device 4,Tvs & Home Theater,Featured Brands,Video Devices & TV Tuners,Consumer Electronics,TV & Video,Internet & Media Streamers,Streaming Media Players,Fire TV,Streaming Devices,Amazon Devices,Amazon,See more Amazon Fire TV with Alexa Voice Remote Digital...: 5.00 (4 reviews)
+  2. Kindle E-readers,Electronics Features,Computers & Tablets,E-Readers & Accessories,E-Readers,eBook Readers: 4.91 (22 reviews)
+  3. Computers & Accessories,Tablet & E-Reader Accessories,Amazon Devices & Accessories,Electronics,Power Adapters & Cables,Computers Features,Cell Phone Accessories,Cell Phone Batteries & Power,Digital Device Accessory,Tablet Accessories,Featured Brands,Kindle Fire (2nd Generation) Accessories,Kindle Store,Power Adapters Cables,Electrical,Home,Tablets & E-Readers,Chargers Adapters,Chargers & Adapters,Electronics Features,Fire Tablet Accessories,Amazon Book Reader Accessory,Cell Phones,Amazon Device Accessories,Home Improvement,Fire (5th Generation) Accessories,Amazon Devices,Cables & Chargers: 4.86 (22 reviews)
+  4. Tablets,Fire Tablets,Electronics,Computers,Computer Components,Hard Drives & Storage,Computers & Tablets,All Tablets: 4.83 (12 reviews)
+  5. Computers & Tablets,E-Readers & Accessories,eBook Readers,Kindle E-readers: 4.81 (21 reviews)
+  6. Amazon Echo,Smart Home,Networking,Home & Tools,Home Improvement,Smart Home Automation,Voice Assistants,Amazon Home,Amazon,Smart Hub & Kits,Digital Device 3: 4.75 (590 reviews)
+  7. Fire Tablets,Tablets,Computers/Tablets & Networking,Other Computers & Networking,Computers & Tablets,All Tablets: 4.68 (22 reviews)
+  8. Tablets,Fire Tablets,Computers & Tablets,All Tablets: 4.68 (28 reviews)
+  9. Amazon Echo,Virtual Assistant Speakers,Electronics Features,Home & Tools,Smart Home Automation,TVs Entertainment,Speakers,Smart Hub & Kits,Digital Device 3,Wireless Speakers,Smart Home,Home Improvement,Voice Assistants,Amazon Home,Amazon: 4.67 (103 reviews)
+  10. eBook Readers,E-Readers & Accessories,Amazon Book Reader,Computers & Tablets,Amazon Ereaders,Kindle E-readers,E-Readers: 4.67 (24 reviews)
+
+6. BRAND PERFORMANCE:
+--------------------------------------------------------------------------------
+Top 10 Brands by Average Rating:
+  1. Amazon: 4.60 (4385 reviews)
+
+7. RECOMMENDATIONS:
+--------------------------------------------------------------------------------
+• Focus on scaling products with high health scores and positive sentiment
+• Address negative keywords to improve customer satisfaction
+• Maintain quality in high-performing categories and brands
+• Use sentiment insights to improve product messaging and positioning
+
+================================================================================

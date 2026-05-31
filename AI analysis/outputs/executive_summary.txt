@@ -1,0 +1,42 @@
+================================================================================
+EXECUTIVE SUMMARY - AMAZON REVIEWS ANALYSIS
+================================================================================
+Report Generated: 2026-06-01 02:01:45
+
+KEY METRICS:
+--------------------------------------------------------------------------------
+Total Reviews Analyzed: 4,385
+Overall Average Rating: 4.60/5.0
+Rating Range: 1 - 5
+
+SENTIMENT ANALYSIS:
+--------------------------------------------------------------------------------
+Positive Sentiment: 90.35%
+Neutral Sentiment: 4.38%
+Negative Sentiment: 5.27%
+Average Sentiment Score: 0.642
+
+TOP PERFORMING CATEGORIES (by rating):
+--------------------------------------------------------------------------------
+  Amazon SMP,TV, Video & Home Audio,Electronics,Electronics Deals,TVs Entertainment,Digital Device 4,Tvs & Home Theater,Featured Brands,Video Devices & TV Tuners,Consumer Electronics,TV & Video,Internet & Media Streamers,Streaming Media Players,Fire TV,Streaming Devices,Amazon Devices,Amazon,See more Amazon Fire TV with Alexa Voice Remote Digital...: 5.00 avg rating (4 reviews)
+  Kindle E-readers,Electronics Features,Computers & Tablets,E-Readers & Accessories,E-Readers,eBook Readers: 4.91 avg rating (22 reviews)
+  Computers & Accessories,Tablet & E-Reader Accessories,Amazon Devices & Accessories,Electronics,Power Adapters & Cables,Computers Features,Cell Phone Accessories,Cell Phone Batteries & Power,Digital Device Accessory,Tablet Accessories,Featured Brands,Kindle Fire (2nd Generation) Accessories,Kindle Store,Power Adapters Cables,Electrical,Home,Tablets & E-Readers,Chargers Adapters,Chargers & Adapters,Electronics Features,Fire Tablet Accessories,Amazon Book Reader Accessory,Cell Phones,Amazon Device Accessories,Home Improvement,Fire (5th Generation) Accessories,Amazon Devices,Cables & Chargers: 4.86 avg rating (22 reviews)
+  Tablets,Fire Tablets,Electronics,Computers,Computer Components,Hard Drives & Storage,Computers & Tablets,All Tablets: 4.83 avg rating (12 reviews)
+  Computers & Tablets,E-Readers & Accessories,eBook Readers,Kindle E-readers: 4.81 avg rating (21 reviews)
+
+TOP PERFORMING BRANDS (by rating):
+--------------------------------------------------------------------------------
+  Amazon: 4.60 avg rating (4385 reviews)
+
+PRODUCT HEALTH CLASSIFICATION:
+--------------------------------------------------------------------------------
+Scale (High Priority): 23 products
+Fix (Medium Priority): 0 products
+Drop (Low Priority): 0 products
+
+KEY INSIGHTS:
+--------------------------------------------------------------------------------
+Rating-Sentiment Correlation: 0.366
+  → Moderate positive correlation: Generally, higher ratings have more positive sentiment
+
+================================================================================
