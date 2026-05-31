@@ -1,5 +1,5 @@
-Amazon Product Portfolio Intelligence
-AI-Driven Consumer Sentiment Analysis & Business Intelligence Dashboard
+# Amazon Product Portfolio Intelligence
+## AI-Driven Consumer Sentiment Analysis & Business Intelligence Dashboard
 Overview
 
 This project applies Artificial Intelligence, Natural Language Processing (NLP), and Business Analytics techniques to analyze Amazon consumer reviews and transform customer feedback into strategic business insights.
